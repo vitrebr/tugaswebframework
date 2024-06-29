@@ -1,0 +1,10 @@
+.pict {
+    width: 250px !important;
+}   
+
+.hover-add:hover {
+    background-color: #e0e0e0;
+}
+.hover-add:active {
+    background-color: #d0d0d0;
+}
